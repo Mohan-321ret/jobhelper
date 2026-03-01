@@ -1,5 +1,6 @@
 import Voice from '@react-native-voice/voice';
 import { useEffect, useState } from 'react';
+// pushing new code into github
 
 export default function useSpeechToText() {
   const [text, setText] = useState('');
